@@ -1,0 +1,7 @@
+- Database of sudoku problems on which to test + test/timing functions (What should we measure? Time, #calls - anything else?)
+1. Basic backtracking - done
+2. Caching legal values - done
+3. Update legal values on each call -
+4. Priority search (spaces with few legal candidates first) - 
+5. Uniqueness in unit (a candidate is only legal in 1 cel in row/col/block) -
+6. Hidden/Naked pairs - 
